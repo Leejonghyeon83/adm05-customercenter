@@ -1,6 +1,6 @@
-package local;
+package abcmarket;
 
-public class DeliveryCanceled extends AbstractEvent {
+public class Shipped extends AbstractEvent {
 
     private Long id;
     private Long orderId;

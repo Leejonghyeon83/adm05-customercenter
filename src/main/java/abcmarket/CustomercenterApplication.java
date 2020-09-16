@@ -1,5 +1,5 @@
-package local;
-import local.config.kafka.KafkaProcessor;
+package abcmarket;
+import abcmarket.config.kafka.KafkaProcessor;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
